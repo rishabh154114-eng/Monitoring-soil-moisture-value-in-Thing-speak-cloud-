@@ -1,5 +1,5 @@
-# NAME: THEJASWINI D
-# REG NO: 212223110059
+# NAME: T.RISHABH SRIVATSAV
+# REG NO: 25001966
 # EXP5:Monitoring soil moisture value in Thingspeak cloud
 # Uploading soil moisture sensor data in Thing Speak cloud
 
@@ -140,8 +140,8 @@ void loop()
 ![WhatsApp Image 2025-10-16 at 09 29 00_52816a33](https://github.com/user-attachments/assets/a3df24af-6dad-458b-8abc-093ec6296c64)
 
 # OUTPUT:
-<img width="324" height="230" alt="image" src="https://github.com/user-attachments/assets/12ffc757-2223-44c9-bc14-673f10b8c85a" />
-<img width="1423" height="840" alt="image" src="https://github.com/user-attachments/assets/cec381d5-a910-4190-bfdf-886f7f994b87" />
+<img width="1920" height="1200" alt="Screenshot 2025-11-12 081601" src="https://github.com/user-attachments/assets/7bd1855d-b0f7-47b5-840a-f42f27fd8712" />
+
 
 # RESULT:
 Thus the soil moisture values are updated in the Thing speak cloud using ESP32 controller.
